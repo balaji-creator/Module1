@@ -21,7 +21,7 @@ else:
 ```
 
 ## Output
-<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/ee925c11-4cdf-4e1b-949b-c69e5cfe0e97" />
+<img width="454" height="343" alt="1a" src="https://github.com/user-attachments/assets/33d67751-3129-4cc3-a882-83ff0fae99cd" />
 
 ## Result
 This program efficiently distinguishes even and odd numbers using a simple conditional check and prints the correct label accordingly.
